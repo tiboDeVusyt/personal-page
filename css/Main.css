@@ -1,0 +1,65 @@
+
+.sidenav 
+{
+    padding-left: 10px;
+    height: 100%;
+    width: 18%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: lightblue;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.body
+{
+    max-width: 800px;
+     padding-left: 20%;
+     background-color: rgb(195, 193, 193);
+}
+.title{
+    color: lightblue;
+}
+.h2
+{
+    font-size-adjust: 18;
+}
+.h3
+{
+    outline-style:outset ;
+    outline-color: lightblue;
+}
+.th{
+    color: white;
+    border: 1px solid  black;
+    border-collapse: collapse;
+    background-color: black ;
+}
+.td1
+{
+    background-color: white;
+    width: 350px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.td2
+{
+    width: 350px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.img{
+
+    position: fixed;
+    z-index: 1;
+    top: 0.1%;
+    right: 0.1%;
+    width: 25%;
+    height: 20%;
+}
+.href
+{
+    color: black;
+    text-decoration: none;
+}
